@@ -1,0 +1,8 @@
+Blueshift Alert(55660)[2023-05-10 07:55:05.970169](INFO): Set up alert manager Blueshift Alert Manager[55660] with retry limits 20.
+Blueshift Alert(55660)[2023-05-10 07:55:12.164165](INFO): Starting backtest with Algoswarm.py
+Blueshift Alert(55660)[2023-05-10 07:55:12.165164](INFO): engine: 2.1.0, broker:nse-backtester, timezone:Asia/Calcutta, total sessions:247
+Blueshift Alert(55660)[2022-01-03 00:00:00+05:30](INFO): risk management: enabled exit cool-off period for 30 minutes.
+Blueshift Alert(55660)[2023-05-10 07:55:57.184596](INFO): backtest run complete, time taken 0:00:45.020000.
+Blueshift Alert(55660)[2023-05-10 07:55:57.185902](INFO): Simulated 247 sessions out of 247.
+Blueshift Alert(55660)[2023-05-10 07:55:57.186237](INFO): first open: 2022-01-03 00:00:00+05:30
+Blueshift Alert(55660)[2023-05-10 07:55:57.186368](INFO): last simulated: 2022-12-30 00:00:00+05:30
